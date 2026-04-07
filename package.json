@@ -1,0 +1,17 @@
+{
+  "name": "vitest-class-method-name-collision",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.17.1",
+  "devDependencies": {
+    "typescript": "^6.0.2",
+    "vitest": "^4.1.3"
+  }
+}
