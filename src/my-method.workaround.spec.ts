@@ -1,5 +1,3 @@
-import { MyClass } from "./MyClass";
-
 const { myMethodMock } = vi.hoisted(() => ({
   myMethodMock: vi.fn(),
 }));
